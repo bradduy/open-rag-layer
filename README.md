@@ -1,4 +1,6 @@
-# open-rag-layer
+# OPEN RAG LAYER - MULTIMODAL RETRIEVAL LAYER
+
+![Open RAG Layer Banner](assets/banner.png)
 
 A provider-agnostic Python retrieval layer that wraps **Gemini Embedding 2** and **Qdrant** into a clean two-method API: `index()` and `search()`. Supports text, PDF, image, audio, and video out of the box.
 
